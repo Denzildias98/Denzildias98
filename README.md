@@ -1,5 +1,9 @@
 # Denzildias_
+
 ## Hey there, Denzil this side!
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -19,8 +23,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress)  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) 
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
@@ -28,7 +31,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
 
 ---
@@ -37,8 +39,8 @@
 
 <p align="center">
 <a href="https://github.com/DenzilDias98">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Denzildias98&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Denzildias98&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
