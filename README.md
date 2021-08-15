@@ -1,4 +1,3 @@
-# Denzildias_
 
 ## Hey there, Denzil this side!
 <p align="center">
@@ -9,7 +8,7 @@
 
 - 🤔 &nbsp; Currently looking for oppurtunity
 - 💼 &nbsp; Worked at CSMIA Mumbai International Airport in Safety Department
-- 🎓 &nbsp; completed my Bachelors in Mechanical Engineering.
+- 🎓 &nbsp; Completed my Bachelors in Mechanical Engineering.
 - ✍️ &nbsp; I am currently learning Java.
 - 🌱 &nbsp; Learning more about CryptoCurrencies, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing video games.
