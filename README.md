@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Currently looking for oppurtunity
+- 🤔 &nbsp; Currently working as a DevOps Engineer at Deloitte 
 - 💼 &nbsp; Worked at CSMIA Mumbai International Airport in Safety Department
 - 🎓 &nbsp; Completed my Bachelors in Mechanical Engineering.
 - ✍️ &nbsp; I am currently learning Java.
